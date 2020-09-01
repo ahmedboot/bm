@@ -1,0 +1,10 @@
+•	Replace all the screens under path C:\Program Files\NCR APTRA\Advance NDC\Media
+
+•	Replace all the screens related to cardless transactions under ecah path below :
+
+C:\ssds\Moredlls
+C:\ssds\Moredlls\BillPayment
+C:\ssds\Moredlls\BNA
+C:\ssds\Moredlls\MCWS
+C:\ssds\Moredlls\SMS
+
